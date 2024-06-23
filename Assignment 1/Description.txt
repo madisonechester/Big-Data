@@ -1,0 +1,2 @@
+Team Members: Madison E. Chester
+Link to the Image: https://hub.docker.com/repository/docker/madisonechester/madisonchester_assignment1 
